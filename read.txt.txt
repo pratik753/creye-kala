@@ -1,0 +1,9 @@
+
+
+spring.data.mongodb.uri=mongodb+srv://test1234:test1234@cluster0.wzlh6.mongodb.net/myDataBase?retryWrites=true&w=majority&tls=true&tlsInsecure=true
+
+spring.data.mongodb.database=journaldb
+spring.data.mongodb.auto-index-creation=true
+
+In VM argument
+-Djdk.tls.client.protocols=TLSv1.2
